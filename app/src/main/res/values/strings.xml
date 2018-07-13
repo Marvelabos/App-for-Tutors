@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MojeRozliczenia</string>
+    <string-array name="choose">
+        <item>SALARY</item>
+        <item>SPENDED MONEY</item>
+    </string-array>
+</resources>
